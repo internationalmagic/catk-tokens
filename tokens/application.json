@@ -1264,7 +1264,7 @@
     "fontFamily": {
       "component": {
         "text": {
-          "$value": "Mirage",
+          "$value": "Interface",
           "$type": "fontFamilies"
         },
         "symbol": {
@@ -1278,31 +1278,31 @@
       },
       "surface": {
         "display": {
-          "$value": "Mirage",
+          "$value": "Interface",
           "$type": "fontFamilies"
         },
         "title": {
-          "$value": "Mirage",
+          "$value": "Interface",
           "$type": "fontFamilies"
         },
         "callout": {
-          "$value": "Mirage",
+          "$value": "Interface",
           "$type": "fontFamilies"
         },
         "subtitle": {
-          "$value": "Mirage",
+          "$value": "Interface",
           "$type": "fontFamilies"
         },
         "body": {
-          "$value": "Mirage",
+          "$value": "Interface",
           "$type": "fontFamilies"
         },
         "caption": {
-          "$value": "Mirage",
+          "$value": "Interface",
           "$type": "fontFamilies"
         },
         "footnote": {
-          "$value": "Mirage",
+          "$value": "Interface",
           "$type": "fontFamilies"
         },
         "code": {
@@ -2064,31 +2064,31 @@
           },
           "default": {
             "2xs": {
-              "$value": "{config.dimension.radius.base} * 2",
+              "$value": "{config.dimension.radius.base} * 0",
               "$type": "dimension"
             },
             "xs": {
-              "$value": "{config.dimension.radius.base} * 2.5",
+              "$value": "{config.dimension.radius.base} * 0.5",
               "$type": "dimension"
             },
             "sm": {
-              "$value": "{config.dimension.radius.base} * 3",
+              "$value": "{config.dimension.radius.base} * 1",
               "$type": "dimension"
             },
             "md": {
-              "$value": "{config.dimension.radius.base} * 3.5",
+              "$value": "{config.dimension.radius.base} * 1.5",
               "$type": "dimension"
             },
             "lg": {
-              "$value": "{config.dimension.radius.base} * 4",
+              "$value": "{config.dimension.radius.base} * 2",
               "$type": "dimension"
             },
             "xl": {
-              "$value": "{config.dimension.radius.base} * 4.5",
+              "$value": "{config.dimension.radius.base} * 2.5",
               "$type": "dimension"
             },
             "2xl": {
-              "$value": "{config.dimension.radius.base} * 5",
+              "$value": "{config.dimension.radius.base} * 3",
               "$type": "dimension"
             }
           }
