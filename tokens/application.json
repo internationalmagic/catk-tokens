@@ -2095,7 +2095,7 @@
         },
         "border": {
           "default": {
-            "$value": "2px",
+            "$value": "1px",
             "$type": "dimension"
           },
           "thin": {
@@ -2155,7 +2155,7 @@
         },
         "border": {
           "default": {
-            "$value": "2px",
+            "$value": "1px",
             "$type": "dimension"
           }
         }
