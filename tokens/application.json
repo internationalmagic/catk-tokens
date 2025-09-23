@@ -1315,7 +1315,7 @@
       "component": {
         "text": {
           "default": {
-            "$value": "{config.fontWeight.book}",
+            "$value": "{config.fontWeight.medium}",
             "$type": "fontWeights"
           },
           "alt": {
@@ -1339,7 +1339,7 @@
         },
         "number": {
           "default": {
-            "$value": "{config.fontWeight.book}",
+            "$value": "{config.fontWeight.medium}",
             "$type": "fontWeights"
           },
           "alt": {
